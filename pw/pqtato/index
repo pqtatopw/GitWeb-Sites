@@ -2,18 +2,8 @@
 image=https://www.pqtato.ga/images/bg.jpg
 text=&f&lPqtato
 
-#navigation
-item-link-1=pqtato.pw
-item-label-1=Home
-item-icon-1=HOME
-
 #header
 text=&f&lComing soon!
 scale=2
 align=left
 padding=10
-
-#footer
-title=Pqtato
-sub-title=Copyright (c) ThePqtatoGalaxy
-home-page=pqtato.pw
